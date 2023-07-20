@@ -1,0 +1,53 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+    color: #0B0223;
+}
+
+.fnav{
+    display: flex;
+    justify-content: space-between;
+   padding: 0px 100px;
+}
+.fdiv{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.sdiv{
+    gap: 32px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.thdiv{
+    display: flex;
+align-items: center;
+justify-content: center;
+width: 262px;
+height: 56px;
+border-radius: 8px;
+background: rgba(11, 2, 35, 0.10);
+gap: 24px;
+}
+.fpp{
+    color: #534C64;
+font-size: 18px;
+}
+.sspan{
+    background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#fimg{
+    width: 80px;
+height: 40px;
+}
+#fp{
+font-size: 45px;
+font-weight: 700;
+}
+.iimg{
+    width: 33.916px;
+height: 24px;
+}
